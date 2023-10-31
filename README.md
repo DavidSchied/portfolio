@@ -26,4 +26,6 @@ get_balsht_incstmt_dat.py: read balance sheet and income statement data from a l
 
 income_statement_check.py:  This program copies select income statement information from a file and copies it to another file with historical information for comparison.
 
+final_asset_lookup.ipynb: A Jupyter Notebook I created to assist me in searching a 11,000+ asset list for various terms (asset#, serial number, description) to identify fixed assets.
+
 '''
